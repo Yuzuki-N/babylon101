@@ -1,24 +1,4 @@
-# b101
+# this repo for myself to learn babylon.js
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## I create first scence!
+![a ball in the scence]("imgs/1st-babylon.png")
